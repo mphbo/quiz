@@ -1,0 +1,291 @@
+Unity Editor version:    2020.3.28f1 (f5400f52e03f)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.1 (Build 21C52)
+Darwin version:          21.2.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.28f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/logan.thomas/Games/Quiz
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58273
+Successfully changed project path to: /Users/logan.thomas/Games/Quiz
+/Users/logan.thomas/Games/Quiz
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 65.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.28f1 (f5400f52e03f)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.28f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/logan.thomas/Games/Quiz/Assets
+GfxDevice: creating device client; threaded=0
+2022-03-28 18:29:45.115 Unity[14755:292352] Color LCD preferred device: Intel(R) UHD Graphics 630 (low power)
+2022-03-28 18:29:45.115 Unity[14755:292352] Metal devices available: 2
+2022-03-28 18:29:45.115 Unity[14755:292352] 0: AMD Radeon Pro 5300M (high power)
+2022-03-28 18:29:45.115 Unity[14755:292352] 1: Intel(R) UHD Graphics 630 (low power)
+2022-03-28 18:29:45.115 Unity[14755:292352] Using device AMD Radeon Pro 5300M (high power)
+Initializing Metal device caps: AMD Radeon Pro 5300M
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.28f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.28f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.28f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56755
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.28f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.28f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003270 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 56.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.829 seconds
+Domain Reload Profiling:
+	ReloadAssembly (829ms)
+		BeginReloadAssembly (92ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (639ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (235ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (248ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (57ms)
+				BeforeProcessingInitializeOnLoad (13ms)
+				ProcessInitializeOnLoadAttributes (133ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008016 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 50.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.428 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1429ms)
+		BeginReloadAssembly (151ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (1214ms)
+			LoadAssemblies (113ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (436ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (71ms)
+			SetupLoadedEditorAssemblies (439ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (51ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (282ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.000268 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.000339 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.28f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Initializing Unity extensions:
+2022-03-28 18:29:49.100 Unity[14755:292352] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000028c9180 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2022-03-28 18:29:49.105 Unity[14755:292352] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600002882530 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2197 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 212.3 MB.
+System memory in use after: 211.4 MB.
+
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 2663.
+Total: 4.737493 ms (FindLiveObjects: 0.297521 ms CreateObjectMapping: 0.199217 ms MarkObjects: 3.586110 ms  DeleteObjects: 0.653610 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Quiz Master Sprites/Quiz Master - Gameplay Overview 1.png
+  artifactKey: Guid(5068d60d2e3a1417fbd7b83e138d684d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quiz Master Sprites/Quiz Master - Gameplay Overview 1.png using Guid(5068d60d2e3a1417fbd7b83e138d684d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adbefadaecc6f7d6221a3eb08381e102') in 1.124162 seconds 
+  Import took 1.133979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000674 seconds.
+  path: Assets/Quiz Master Sprites/neon_square_orange.png
+  artifactKey: Guid(5dc45edcd2c0b46da8d3d54714259910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quiz Master Sprites/neon_square_orange.png using Guid(5dc45edcd2c0b46da8d3d54714259910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81ee790851ac2cd4bf7c41b2d563743d') in 0.020488 seconds 
+  Import took 0.025022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Quiz Master Sprites
+  artifactKey: Guid(fc5144423321c46149060b06cd10095a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quiz Master Sprites using Guid(fc5144423321c46149060b06cd10095a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e3af698e0f157c0a7e89184a6ee3ec') in 0.003011 seconds 
+  Import took 0.008898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Quiz Master Sprites/Quiz Master - Gameplay Overview 2.png
+  artifactKey: Guid(b436f2046d2f24cf8b26726ff526f448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quiz Master Sprites/Quiz Master - Gameplay Overview 2.png using Guid(b436f2046d2f24cf8b26726ff526f448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af734b11781a3ca5c5ae2833faa17f2a') in 0.024884 seconds 
+  Import took 0.028833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Quiz Master Sprites/neon_round_orange.png
+  artifactKey: Guid(3882b9a34192d426f9002673a2396875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quiz Master Sprites/neon_round_orange.png using Guid(3882b9a34192d426f9002673a2396875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2335f4ca8656f1c8a0d030bf381125ee') in 0.022274 seconds 
+  Import took 0.026894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Quiz Master Sprites/neon_square_blue.png
+  artifactKey: Guid(cf4175ef991784d03b75d6bb946903eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quiz Master Sprites/neon_square_blue.png using Guid(cf4175ef991784d03b75d6bb946903eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9229e1d5bd0ba04bed0a2c8caf6e31d8') in 0.021656 seconds 
+  Import took 0.027060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Quiz Master Sprites/Quiz Master - Gameplay Overview 3.png
+  artifactKey: Guid(ed4be177ee1c24d0c89cb4ee8d989780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quiz Master Sprites/Quiz Master - Gameplay Overview 3.png using Guid(ed4be177ee1c24d0c89cb4ee8d989780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ffea5cc6aef2514d914e6bc3f0dd2b6') in 0.025751 seconds 
+  Import took 0.031292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Quiz Master Sprites/background.png
+  artifactKey: Guid(b65a15df8278246ebbff60f51370c39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quiz Master Sprites/background.png using Guid(b65a15df8278246ebbff60f51370c39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed96f8f0b10b707b650743b43b6eb150') in 0.026477 seconds 
+  Import took 0.031454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2261.370810 seconds.
+  path: Assets/TextMesh Pro/Fonts
+  artifactKey: Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts using Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c860dfdf0522eec1202f36843e52d436') in 0.001395 seconds 
+  Import took 0.004818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064759 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a31d09850e079c4c77073532874e4c7b') in 2.132958 seconds 
+  Import took 2.142430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.758905 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0d2861f60500f05bd29199894f7bb5') in 0.421213 seconds 
+  Import took 0.431755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289988fcecf3b00d1602f8d2b589f7dd') in 0.197260 seconds 
+  Import took 0.206829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c2210586957436df79bf961aeff06e') in 0.220618 seconds 
+  Import took 0.231686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1280cc7be10b532b2897fc8654f95d3') in 0.054080 seconds 
+  Import took 0.060502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 981.999813 seconds.
+  path: Assets/Quiz Master Sprites/neon_square_blue.png
+  artifactKey: Guid(cf4175ef991784d03b75d6bb946903eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quiz Master Sprites/neon_square_blue.png using Guid(cf4175ef991784d03b75d6bb946903eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f333ebb1d8a41c4d1f296dd71be3645a') in 0.023128 seconds 
+  Import took 0.028509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 806.299113 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(8958865eb42ff4cba95d3347d60a6d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(8958865eb42ff4cba95d3347d60a6d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef4565d5d06a6d78204203056e7bea82') in 0.002210 seconds 
+  Import took 0.007257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.747111 seconds.
+  path: Assets/Questions
+  artifactKey: Guid(fca46755b1dbd40a8956ade77280e256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Questions using Guid(fca46755b1dbd40a8956ade77280e256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c693eb9fbfc9cd14a2e495e87937d10') in 0.002208 seconds 
+  Import took 0.006021 seconds .
+
